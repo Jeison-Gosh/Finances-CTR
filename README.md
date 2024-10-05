@@ -46,8 +46,11 @@ For run as development environment...
 ```sh
 $ java -jar FinancesCTL.jar dev
 ```
-> Note: `The app runs in a port determined is 3250 port then if it's in use by another program you
+> Note: The app runs in a port determined is 3250 port then if it's in use by another program you
 can change the Http Port Protocol, could open with a second argument another port, such its view below.
+
+- Remember that the port must be available.
+- Remember that default environment is production.
 
 ```sh
 $ java -jar FinancesCTL.jar prod 3000
