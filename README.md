@@ -34,7 +34,7 @@ The arguments it expects are the following:
 $ java -jar FinancesCTL.jar [env] [port]
 ```
 
-Note: The env argument is only for displaying application logs, it has no other functionality.
+> Note: The env argument is only for displaying application logs, it has no other functionality.
 \
 For run as production environment...
 ```sh
@@ -46,13 +46,13 @@ For run as development environment...
 ```sh
 $ java -jar FinancesCTL.jar dev
 ```
-Note: The app runs in a port determined is 3250 port then if it's in use by another program you
+> Note: `The app runs in a port determined is 3250 port then if it's in use by another program you
 can change the Http Port Protocol, could open with a second argument another port, such its view below.
 
 ```sh
 $ java -jar FinancesCTL.jar prod 3000
 ```
-#### Building for source
+### To deploy in production🚀🌎
 
 For production release:
 
