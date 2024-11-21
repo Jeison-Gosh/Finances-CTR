@@ -8,9 +8,9 @@ to anothers applications.
 
 - It is programmed in Java ☕
 
-## Features
+## Functionalities
 
-- Import and export CSV, PDF.
+- Import and export files in the format CSV, PDF.
 - Drag and drop CSV, PDF.
 - Connect with a database in the internet to store your data.
 - Give you an API REST that works to connect anothers applications to Finances CTR.
