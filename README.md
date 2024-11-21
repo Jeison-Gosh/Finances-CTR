@@ -1,8 +1,8 @@
-# Finances CTL
+# Finances ConTrolleR
 ## The secure app to control your finances💵💰
 
 
-Finances ctl is a simple app to control your finances, you could import or export data in format CSV, PDF,
+Finances ctr is a simple app to control your finances, you could import or export data in format CSV, PDF,
 save your financial income and expenses and protect your data also will got a free API to connect this app
 to anothers applications.
 
